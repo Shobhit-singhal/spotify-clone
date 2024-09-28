@@ -100,3 +100,4 @@ muteUnmute.addEventListener("click", () => {
 
 song.volume = volumeBar.value / 100;
 volumeBar.addEventListener("input", volumeChange);
+//hei
